@@ -5,7 +5,7 @@ The purpose of this analysis was to gather data from a bikesharing company in NY
 
 
 ## Results & Summary
-[link to dashboard](https://public.tableau.com/app/profile/sandra.nwokolo/viz/Module15Challenge_16704322444120/NYCBikesharingData?publish=yes)
+[My Tableau Story](https://public.tableau.com/app/profile/sandra.nwokolo/viz/Module15Challenge_16704322444120/NYCBikesharingData?publish=yes)
 
 The Tableau story above shows the different visualizations created for the analysis of the Citibike Data.
 "Bike checkout times for users" graph shows that the most amount of bikes are checked out for shorter time durations of between 2 to 5 minutes and then the numbers start to decline once we get to the 60 minute mark and then no bikes are checked out for any time duration longer than that.
