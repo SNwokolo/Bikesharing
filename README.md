@@ -19,4 +19,4 @@ The Tableau story above shows the different visualizations created for the analy
 
 Two additional visualizations that can be suggested for further analysis of this data would be:
 - a map of the usertypes (ssubscriber or customer) by city locations (starting locations and ending locations). This would help take note of the parts of the city where it seems each usertype is likely to book a bike from so as to provide more bikes in the busier locations or find out why these locations tend to be busier as opposed to others.
-- a circle graph depicting the relationship between the genders and the average bike utilization to explore if there are certain bikes that are more preferred by each gender in order to better cater to the needs of the general population accordingly.
+- a circle/bubble graph depicting the relationship between the genders and the average bike utilization to explore if there are certain bikes that are more preferred by each gender in order to better cater to the needs of the general population accordingly.
